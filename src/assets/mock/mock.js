@@ -2,7 +2,7 @@ import image1 from "../images/IMG_0859.jpg";
 import image2 from "../images/IMG_1951.jpg";
 import image3 from "../images/IMG_1955.jpg";
 import gift1 from "../images/gifts/31E0CB72-9BF1-4A9A-AA37-C1C0885079E3.jpg";
-import gift2 from "../images/gifts/IMG_1323.jpg";
+import gift2 from "../images/IMG_1323.jpg";
 
 export const _albums = image1;
 
