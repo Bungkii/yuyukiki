@@ -1,5 +1,5 @@
-import image1 from "../images/IMG_0859.HEIC";
-import gift1 from "../images/gifts/1.png";
+import image1 from "../images/IMG_0859.jpg";
+import gift1 from "../images/gifts/31E0CB72-9BF1-4A9A-AA37-C1C0885079E3.jpg";
 
 export const _albums = image1;
 
@@ -12,5 +12,6 @@ export const _messages = [
 ];
 
 export const _birthdayMessages = [
-    "สุขสันต์วันเกิดครับน้องน้องน้องน้องน้องน้อง",
+    "สุขสันต์วันเกิดครับน้องน้องน้องน้องน้องน้อง",    
+    "ราชินีหมูกรอบ",    
 ];
