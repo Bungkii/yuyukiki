@@ -30,7 +30,7 @@ function App() {
                     <Header
                         content={{
                             title: "สุขสันต์วันเกิด",
-                            subtitle: "Naming🎉",
+                            subtitle: "ยุกกี้กินแมวน้ำ รักแท้แพ้แอ๊ะแอ๋",
                         }}
                     />
                     <div className="w-[245px] h-[320px] rounded-lg shadow-lg mb-12">
@@ -57,7 +57,7 @@ function App() {
                         }
                     />
                     <div className={`pb-20 font-bold text-[#f78da4] text-3xl`}>
-                        Captions 💕
+                        ยุกิรับประทานหมูกรอบ🤩
                     </div>
                 </div>
             </div>
