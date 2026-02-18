@@ -1,5 +1,6 @@
 import { useRef } from "react";
 import { useInView } from "framer-motion";
+import { Analytics } from "@vercel/analytics/react";
 // รวม import ให้เป็นระเบียบ
 import { _albums, _birthdayMessages, _messages } from "./assets/mock/mock"; 
 import { useModal } from "./hooks/useModal";
@@ -25,6 +26,7 @@ function App() {
 
     return (
         <div>
+            <Analytics />
             {/* 2. วางปุ่มเล่นเพลงไว้ตรงนี้ (มันจะลอยอยู่มุมขวาล่างเอง) */}
             <MusicPlayer />
 
