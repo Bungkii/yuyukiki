@@ -34,7 +34,7 @@ function App() {
                     <Header
                         content={{
                             title: "สุขสันต์วันเกิด😘",
-                            subtitle: "ยุกกี้กินแมวน้ำ รักแท้แพ้แอ๊ะแอ๋",
+                            subtitle: "เด็กหญิงณัฐณิชา สัจจะสกุลชัย",
                         }}
                     />
                     <div className="w-[245px] h-[320px] rounded-lg shadow-lg mb-12">
@@ -59,7 +59,7 @@ function App() {
                         data={_birthdayMessages}
                     />
                     <div className={`pb-20 font-bold text-[#f78da4] text-3xl`}>
-                        ยุกิรับประทานหมูกรอบ🤩
+                        รักผิงเสมอ 34963 จำไว้แล้ว
                     </div>
                 </div>
             </div>
