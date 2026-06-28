@@ -19,9 +19,9 @@ export const _giftAlbums = [
 ];
 
 export const _messages = [
-  "HAPPP",
-  "PYYY",
+  "HAPPPPYYY",
   "BDBDBDBD",
+  "To pphingjajajaj",
 ];
 
 export const _birthdayMessages = [
