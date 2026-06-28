@@ -5,8 +5,6 @@ import { _albums, _birthdayMessages, _messages } from "./assets/mock/mock";
 import { useModal } from "./hooks/useModal";
 import { Header, MessageSection } from "./components/ui";
 import { MemoryZone } from "./components/common";
-// 1. นำเข้า MusicPlayer ไว้ด้านบนสุด
-import MusicPlayer from "./components/ui/MusicPlayer"; 
 
 function App() {
     const { isModalVisible, currentImage, openModal, closeModal } = useModal();
@@ -25,9 +23,6 @@ function App() {
 
     return (
         <div>
-            {/* 2. วางปุ่มเล่นเพลงไว้ตรงนี้ (มันจะลอยอยู่มุมขวาล่างเอง) */}
-            <MusicPlayer />
-
             <div className="aura" />
             <div className="flex justify-center h-auto overflow-y-auto aura">
                 <div className="flex flex-col items-center max-w-[350px] py-12 gap-16 relative">
