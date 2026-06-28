@@ -1,10 +1,10 @@
-import image1 from "../images/IMG_0859.jpg";
+import image1 from "../images/gifts/1D9B065A-4FCD-4DCC-8090-5DD3F07BD4A1.jpeg";
 
 // Import รูปของขวัญทั้งหมดตามที่มีในโฟลเดอร์
-import gift1 from "../images/gifts/31E0CB72-9BF1-4A9A-AA37-C1C0885079E3.jpg";
-import gift2 from "../images/gifts/IMG_1323.jpg";
-import gift3 from "../images/gifts/IMG_1951.jpg";
-import gift4 from "../images/gifts/IMG_1955.jpg";
+import gift1 from "../images/gifts/D67CBD20-ECD1-4923-BF2A-E57697FF6120.jpeg";
+import gift2 from "../images/gifts/5B7F2BFF-2D31-4212-B2FF-3A5FA7A203FA.jpeg";
+import gift3 from "../images/gifts/0F92743C-34DF-4D4A-B197-34E25AD734AA.jpeg";
+import gift4 from "../images/gifts/326C928B-7F43-4B20-9863-D67681B09813.jpeg";
 
 export const _albums = [
   image1
